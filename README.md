@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @L8lawrence
 - 👀 I’m interested in data analysis using R studio programming
-- 🌱 I’m currently learning R studio programming
+- 🌱 I’m currently learning R studio programming and working on google byke share project
 - 💞️ I’m looking to collaborate data analysis project that will sharpen my knowledge 
 - 📫 How to reach me ..drop a message  
 
